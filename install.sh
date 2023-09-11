@@ -87,7 +87,7 @@ function necesarios(){
   # Instalar SDDM 
   sudo pacman -S sddm --noconfirm
 
-  sudo pacman -S bspwm sxhkd polybar kitty zsh rofi xorg-xrandr picom git unzip zsh lsd bat feh dash xorg-xsetroot zsh-autosuggestions zsh-syntax-highlighting polkit-gnome megatools playerctl qemu-full libvirt iptables openbsd-netcat dmidecode virt-manager timeshift pavucontrol  --noconfirm
+  sudo pacman -S bspwm sxhkd polybar kitty zsh wget rofi xorg-xrandr picom git unzip zsh lsd bat feh dash xorg-xsetroot zsh-autosuggestions zsh-syntax-highlighting polkit-gnome megatools playerctl qemu-full libvirt iptables openbsd-netcat dmidecode virt-manager timeshift pavucontrol  --noconfirm
 
 # Yay
 cd ~/
